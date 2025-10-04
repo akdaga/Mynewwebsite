@@ -1,0 +1,56 @@
+[
+  {
+    "id": "werribee-residence",
+    "title": "Contemporary Family Residence",
+    "address": "UPDATE STREET, Werribee VIC",
+    "price": "Contact agent",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "parking": 2,
+    "landSize": "512 m² (approx.)",
+    "description": "Sunlit living zones, entertainer's alfresco, and a chef-inspired kitchen ready for family life.",
+    "features": [
+      "Open-plan living and dining",
+      "Stone island kitchen with walk-in pantry",
+      "Primary suite with walk-in robe and ensuite",
+      "Landscaped backyard with undercover alfresco"
+    ],
+    "image": "/assets/listings/sample-1.svg"
+  },
+  {
+    "id": "tarneit-townhouse",
+    "title": "Low-Maintenance Townhouse",
+    "address": "UPDATE STREET, Tarneit VIC",
+    "price": "$620,000 - $660,000",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "parking": 1,
+    "landSize": "205 m² (approx.)",
+    "description": "Stylish turnkey townhouse positioned within walking distance to transport and village conveniences.",
+    "features": [
+      "North-facing courtyard",
+      "Full suite of stainless appliances",
+      "Upstairs retreat and dedicated study nook",
+      "Secure garage with internal entry"
+    ],
+    "image": "/assets/listings/sample-2.svg"
+  },
+  {
+    "id": "point-cook-luxury",
+    "title": "Designer Living in Point Cook",
+    "address": "UPDATE STREET, Point Cook VIC",
+    "price": "Auction Saturday 11am",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "parking": 2,
+    "landSize": "640 m² (approx.)",
+    "description": "Architect-designed showpiece delivering luxurious proportions across two sun-drenched levels.",
+    "features": [
+      "Grand entry foyer with feature staircase",
+      "Cinema room and upstairs rumpus",
+      "Heated swimming pool and outdoor kitchen",
+      "Zoned climate control"
+    ],
+    "image": "/assets/listings/sample-3.svg"
+  }
+]

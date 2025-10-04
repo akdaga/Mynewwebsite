@@ -1,0 +1,8 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#FFF3E0"/>
+  <rect x="70" y="150" width="460" height="190" fill="#FFB74D"/>
+  <polygon points="300,80 540,210 60,210" fill="#F57C00"/>
+  <rect x="200" y="230" width="70" height="110" fill="#FFF3E0"/>
+  <rect x="320" y="250" width="110" height="70" fill="#FFF3E0"/>
+  <text x="300" y="360" text-anchor="middle" fill="#4E342E" font-family="'Montserrat', 'Segoe UI', sans-serif" font-size="32" font-weight="600">Townhouse</text>
+</svg>
