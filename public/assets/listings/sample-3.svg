@@ -1,0 +1,8 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#E8F5E9"/>
+  <rect x="90" y="130" width="420" height="210" fill="#81C784"/>
+  <polygon points="300,70 530,210 70,210" fill="#388E3C"/>
+  <rect x="210" y="230" width="70" height="110" fill="#E8F5E9"/>
+  <rect x="330" y="250" width="110" height="80" fill="#E8F5E9"/>
+  <text x="300" y="360" text-anchor="middle" fill="#1B5E20" font-family="'Montserrat', 'Segoe UI', sans-serif" font-size="32" font-weight="600">Family Home</text>
+</svg>
